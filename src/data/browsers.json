@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Opera",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+        "description": "Experience faster, distraction-free browsing with Ad blocking, and browse privately. Smoothly sync your data and send files between Opera on Mac, Windows, Linux, iOS, Android, and Chromebook."
+    },
+    {
+        "name": "Opera GX",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Opera_GX_Icon.svg/2048px-Opera_GX_Icon.svg.png",
+        "description": "Get an unparalleled gaming and browsing experience on mobile and desktop. Set limits on CPU, RAM, and Network usage, use Discord & Twitch from the sidebar, and connect mobile and desktop browsers with the file-sharing Flow feature. "
+    },
+    {
+        "name": "Opera for Chromebook",
+        "logo": "https://technologymirror.com.ng/wp-content/uploads/2021/07/operahero.jpg",
+        "description": "Fast. Safe. Private. The world’s first alternative browser optimized for your Chromebook. "
+    },
+    {
+        "name": "Opera Crypto Browser",
+        "logo": "https://play-lh.googleusercontent.com/JVYvD5rY9UTbGv8EtrNf4S9I5hQsdKDT8gu66dFlzNuXcfK3gm5esROv2ZtTaWeITCw",
+        "description": "Experience the Web3 browser for crypto users. Get crypto-oriented security enhancements, manage multiple crypto wallets simultaneously, and access Discord, Telegram and more directly from the sidebar. "
+    }
+
+]
